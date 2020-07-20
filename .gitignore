@@ -12,3 +12,4 @@ pkg
 /.env
 /.idea
 *.tar.gz
+README.html

@@ -1,0 +1,52 @@
+= Coelacanthus PKGBUILD Repository
+Coelacanthus
+
+
+Provide PKGBUILDs maintained by Coelacanthus
+
+== List
+
+|===
+| 名称 									| 描述 | 版本 | 上次更新时间
+
+| rime-aurora-pinyin 					| 【极光拼音】输入方案
+| 0.0.0.20200720 | 2020-07-20
+
+| lemon-lime-git 						| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus
+| 1:0.2.2.r2.f8de93a | 2020-07-13
+
+| rime-opencc-emoji-symbols 			| Rime 输入法 Emoji 与符号滤镜
+| 0.0.0.20200711 | 2020-07-11
+
+| lemon-lime 							| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus
+| 0.2.2 | 2020-07-02
+
+| fcitx5-skin-base16-material-darker 	| A base16-material-darker theme for Fcitx5.
+| 0.0.0.20200627 | 2020-06-27
+
+| fcitx5-skin-dark-transparent 			| 一个简单的 fcitx5 的黑色透明主题
+| 0.0.0.20200618 | 2020-06-18
+
+| fcitx5-skin-adwaita-dark 				| An Fcitx5 dark theme mimics GNOME Adwaita-dark
+| 0.0.0.20200618 | 2020-06-18
+
+| fcitx5-skin-dark-numix 				| Modified Material-Color to fit in the numix dark theme.
+| 0.0.0.20200618 | 2020-06-18
+
+| fcitx5-skin-materia-exp 				| Materia EXP color theme for fcitx5
+| 0.0.0.20200618 | 2020-06-18
+
+| rime-essay-simp 						| Essential files for building up your Rime configuration
+| 0.0.0.20200521 | 2020-05-21
+
+| python-cyaron 						| CYaRon: Yet Another Random Olympic-iNformatics test data generator, A library for automatically generating test data for Online Judge, Olympic Informatics or automatic application testing.
+| 0.4.2 | 2020-01-26
+
+| python-xeger 							| A library for generating random strings from a valid regular expression.
+| 0.3.5 | 2020-01-20
+|===
+
+== Thanks
+
+* **https://github.com/eli-schwartz/aurpublish[aurpublish]**: Great tool to manager your AUR PKGBUILDs
+* **https://github.com/lilydjwg/nvchecker[nvchecker]**: Great tool to check newer version of packages
