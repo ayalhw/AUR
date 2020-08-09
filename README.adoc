@@ -10,16 +10,16 @@ Provide PKGBUILDs maintained by Coelacanthus
 | 名称 									| 描述 | 版本 | 上次更新时间
 
 | rime-aurora-pinyin 					| 【极光拼音】输入方案
-| 0.0.0.20200720 | 2020-07-20
+| 0.0.0.20200726 | 2020-07-26
 
 | lemon-lime-git 						| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus
-| 1:0.2.2.r2.f8de93a | 2020-07-13
+| 1:0.2.3rc3.r0.2049f82 | 2020-08-09
 
 | rime-opencc-emoji-symbols 			| Rime 输入法 Emoji 与符号滤镜
 | 0.0.0.20200711 | 2020-07-11
 
 | lemon-lime 							| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus
-| 0.2.2 | 2020-07-02
+| 0.2.2 | 2020-08-09
 
 | fcitx5-skin-base16-material-darker 	| A base16-material-darker theme for Fcitx5.
 | 0.0.0.20200627 | 2020-06-27
@@ -28,7 +28,7 @@ Provide PKGBUILDs maintained by Coelacanthus
 | 0.0.0.20200618 | 2020-06-18
 
 | fcitx5-skin-adwaita-dark 				| An Fcitx5 dark theme mimics GNOME Adwaita-dark
-| 0.0.0.20200618 | 2020-06-18
+| 0.0.0.20200806 | 2020-08-06
 
 | fcitx5-skin-dark-numix 				| Modified Material-Color to fit in the numix dark theme.
 | 0.0.0.20200618 | 2020-06-18
