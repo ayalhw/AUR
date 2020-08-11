@@ -10,10 +10,10 @@ Provide PKGBUILDs maintained by Coelacanthus
 | 名称 									| 描述 | 版本 | 上次更新时间
 
 | rime-aurora-pinyin 					| 【极光拼音】输入方案
-| 0.0.0.20200726 | 2020-07-26
+| 0.0.0.202007809 | 2020-08-09
 
 | lemon-lime-git 						| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus
-| 1:0.2.3rc3.r0.2049f82 | 2020-08-09
+| 1:0.2.3rc3.r0.2049f82 | 2020-08-11
 
 | rime-opencc-emoji-symbols 			| Rime 输入法 Emoji 与符号滤镜
 | 0.0.0.20200711 | 2020-07-11
