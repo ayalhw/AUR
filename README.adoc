@@ -37,7 +37,7 @@ Provide PKGBUILDs maintained by Coelacanthus
 | 0.0.0.20200618 | 2020-06-18
 
 | rime-essay-simp 						| Essential files for building up your Rime configuration
-| 0.0.0.20200521 | 2020-05-21
+| 0.0.0.20200816 | 2020-08-16
 
 | python-cyaron 						| CYaRon: Yet Another Random Olympic-iNformatics test data generator, A library for automatically generating test data for Online Judge, Olympic Informatics or automatic application testing.
 | 0.4.2 | 2020-01-26
