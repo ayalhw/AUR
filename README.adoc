@@ -44,6 +44,18 @@ Provide PKGBUILDs maintained by Coelacanthus
 
 | python-xeger 							| A library for generating random strings from a valid regular expression.
 | 0.3.5 | 2020-01-20
+
+| rime-liangfen 						| unapproved fork of LiangFen by Sim CheonHyeong
+| 0.0.0.20200821 | 2020-08-21
+
+| rime-lua-cloud 						| RIME 云输入插件
+| 0.0.0.20200821 | 2020-08-21
+
+| rime-putonghua 						| rime 有声调普通话拼音方案
+| 0.0.0.20200822 | 2020-08-22
+
+| rime-lua-hook-git 					| Pacman hook to merge rime lua plugin
+| 0.0.0.20200821 | 2020-08-21
 |===
 
 == Thanks
