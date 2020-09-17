@@ -12,14 +12,14 @@ Provide PKGBUILDs maintained by Coelacanthus
 | rime-aurora-pinyin 					| 【极光拼音】输入方案
 | 0.0.0.202007809 | 2020-08-09
 
-| lemon-lime-git 						| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus
-| 1:0.2.3rc3.r0.2049f82 | 2020-08-11
+| lemon-lime-git 						| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus (Git Version)
+| 1:0.2.3.12.r278.b7511c5 | 2020-09-17
 
 | rime-opencc-emoji-symbols 			| Rime 输入法 Emoji 与符号滤镜
 | 0.0.0.20200711 | 2020-07-11
 
 | lemon-lime 							| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus
-| 0.2.2 | 2020-08-09
+| 0.2.3 | 2020-09-17
 
 | fcitx5-skin-base16-material-darker 	| A base16-material-darker theme for Fcitx5.
 | 0.0.0.20200627 | 2020-06-27
@@ -37,7 +37,7 @@ Provide PKGBUILDs maintained by Coelacanthus
 | 0.0.0.20200618 | 2020-06-18
 
 | rime-essay-simp 						| Essential files for building up your Rime configuration
-| 0.0.0.20200816 | 2020-08-16
+| 0.0.0.20200910 | 2020-09-10
 
 | python-cyaron 						| CYaRon: Yet Another Random Olympic-iNformatics test data generator, A library for automatically generating test data for Online Judge, Olympic Informatics or automatic application testing.
 | 0.4.2 | 2020-01-26
@@ -52,7 +52,7 @@ Provide PKGBUILDs maintained by Coelacanthus
 | 0.0.0.20200821 | 2020-08-21
 
 | rime-putonghua 						| rime 有声调普通话拼音方案
-| 0.0.0.20200822 | 2020-08-22
+| 0.0.0.20200916 | 2020-09-17
 
 | rime-lua-hook-git 					| Pacman hook to merge rime lua plugin
 | 0.0.0.20200821 | 2020-08-21
