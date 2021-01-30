@@ -12,6 +12,9 @@ Provide PKGBUILDs maintained by Coelacanthus
 | rime-aurora-pinyin 					| 【极光拼音】输入方案
 | 0.0.0.20200921 | 2020-09-21
 
+| otf-fandol 							| Four basic fonts for Chinese typesetting: Song, Hei, Kai, Fang
+| 0.3-2 | 2021-01-30
+
 | lemon-lime-git 						| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus (Git Version)
 | 1:0.2.3.12.r278.b7511c5 | 2020-09-17
 
@@ -19,7 +22,7 @@ Provide PKGBUILDs maintained by Coelacanthus
 | 0.0.0.20200711 | 2020-07-11
 
 | lemon-lime 							| 为了 OI 比赛而生的基于 Lemon 的轻量评测系统 \| A tiny judging environment for OI contest based on Project_LemonPlus
-| 0.2.3 | 2020-09-17
+| 0.2.8 | 2021-01-23
 
 | fcitx5-skin-base16-material-darker 	| A base16-material-darker theme for Fcitx5.
 | 0.0.0.20200627 | 2020-06-27
