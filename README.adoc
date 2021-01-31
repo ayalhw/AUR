@@ -59,6 +59,9 @@ Provide PKGBUILDs maintained by Coelacanthus
 
 | rime-lua-hook-git 					| Pacman hook to merge rime lua plugin
 | 0.0.0.20200821 | 2020-08-21
+
+| checkinstall 						| Track files modified by an installation script and create a Slackware, RPM or Debian package
+| 0.2.6-2 | 2021-01-31
 |===
 
 == Thanks
