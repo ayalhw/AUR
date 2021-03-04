@@ -64,7 +64,10 @@ Provide PKGBUILDs maintained by Coelacanthus
 | 0.2.6-5 | 2021-01-31
 
 | gomclauncher 						| gml: A Minecraft Launcher
-| 1.3.6 | 2021-02-04
+| 1.3.8 | 2021-02-04
+
+| onscripter 						| A game engine compatible to NScripter, to create and perform visual novel games
+| 20200722-5 | 2021-03-04
 |===
 
 == Thanks
