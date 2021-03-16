@@ -68,6 +68,9 @@ Provide PKGBUILDs maintained by Coelacanthus
 
 | onscripter 						| A game engine compatible to NScripter, to create and perform visual novel games
 | 20200722-5 | 2021-03-04
+
+| git-grc 							| Semantic git commits tool. use rust to rewrite the main features of git-cz.
+| 1.1.0 | 2021-03-15
 |===
 
 == Thanks
