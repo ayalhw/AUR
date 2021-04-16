@@ -71,6 +71,9 @@ Provide PKGBUILDs maintained by Coelacanthus
 
 | git-grc 							| Semantic git commits tool. use rust to rewrite the main features of git-cz.
 | 1.1.0 | 2021-03-15
+
+| hentaiathome 							| An open-source Peer-2-Peer gallery distribution system which reduces the load on the E-Hentai Galleries
+| 1.6.1 | 2021-04-16
 |===
 
 == Thanks
